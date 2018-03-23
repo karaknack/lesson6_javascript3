@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kara Knack
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, I added image previews, left and right arrows, and event handlers to create a photo carousel.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://karaknack.github.io/lesson6_javascript3/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create elements like the img element, and how to store variables in it.
+2. A document fragment is a set of nodes that aren't part of a document.
+3. Always make sure to double check code and preview it on the index.html file! When you preview the .js file, nothing happens! And you'll be confused!
